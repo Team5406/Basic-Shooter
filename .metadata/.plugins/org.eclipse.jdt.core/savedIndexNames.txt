@@ -1,9 +1,0 @@
-INDEX VERSION 1.127+C:\Users\MarkJP\Documents\Robot Code\.metadata\.plugins\org.eclipse.jdt.core
-651916359.index
-63227285.index
-2946967425.index
-4261073122.index
-916471630.index
-940689522.index
-2999084130.index
-2298177241.index
